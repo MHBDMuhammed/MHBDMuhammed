@@ -57,6 +57,6 @@
   ## Contact
 
   - Website: https://www.mhbd.dev
-  - LinkedIn: https://www.linkedin.com/in/muhammed-bodruk-84625a356/
+  - LinkedIn: https://www.linkedin.com/in/muhammedbodruk/
   - X: https://x.com/MBodruk3049
   - Email: info@mhbd.dev
