@@ -1,62 +1,83 @@
- # Muhammed Bodruk
+<a href="https://www.mhbd.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img src="assets/hero-light.svg" alt="Muhammed Bodruk — Fullstack AI Developer. Fast, secure, AI-assisted web products.">
+  </picture>
+</a>
 
-  **Fullstack AI Developer** building secure, polished, AI-assisted web products with clean architecture, strong data models, and careful interfaces.
+<p align="center">
+  <a href="https://www.mhbd.dev">mhbd.dev</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muhammed-bodruk-84625a356/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/MBodruk3049">X</a> &nbsp;·&nbsp;
+  <a href="mailto:mhbd@mhbd.dev">mhbd@mhbd.dev</a>
+</p>
 
-  I work across product, frontend, backend, databases, admin systems, and practical LLM workflows. My best work sits where pragmatic engineering meets polished user experience.
+I've been shipping production apps for 8+ years. I turn fast AI experiments into durable products — type-safe architecture, resilient data models and calm interfaces.
 
-  ## Focus
+### <sub>01</sub>&nbsp; Selected work
 
-  - AI-assisted web products and workflow automation
-  - Next.js, React, TypeScript, and production-grade frontend systems
-  - Admin panels, dashboards, CMS flows, and internal tools
-  - PostgreSQL, Drizzle ORM, validation, auth, and server-side architecture
-  - LLM integrations with OpenAI, Claude API, Vercel AI SDK, and agent-based development workflows
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  ## Selected Work
+**[KAFL Nexus](https://kafl.mhbd.dev)** &nbsp;<sub>2025 – now</sub><br>
+<sub>PRODUCT DEVELOPER · EDUCATION ANALYTICS & AI</sub>
 
-  ### Neoesis
-  AI-assisted learning platform for generating interactive educational experiences around any subject.
+Turns exam-result PDFs into structured student, class and institution data, then into dashboards and AI guidance reports. Fuzzy matching untangles inconsistent names.
 
-  Built with **Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Three.js, Zustand, Zod, Vitest, and Playwright**.
+`Next.js` `PostgreSQL` `Drizzle ORM` `PDF parsing`
 
-  - Live: https://neoesis.mhbd.dev
-  - Repo: https://github.com/MHBDMuhammed/Neoesis
+</td>
+<td width="50%" valign="top">
 
-  ### KAFL | NEXUS
-  AI-assisted academic performance and strategy platform for TYT/AYT students.
+**[Atafen Eğitim Kurumu](https://atafenegitim.com)** &nbsp;<sub>2026 – now</sub><br>
+<sub>FREELANCE FULL-STACK DEVELOPER</sub>
 
-  The system turns exam result PDFs into structured data, trend dashboards, and personalized AI guidance reports using **Next.js, TypeScript, PostgreSQL, Neon, Drizzle ORM, Zod, and
-  queue-based AI analysis flows**.
+Institutional CMS for programs, announcements and contact content, built end to end: type-safe data model, auth, and a publishing flow non-technical staff can run.
 
-  - Live: https://kafl.mhbd.dev
+`Next.js` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
-  ### RCSF Project Nexus
-  Full-stack esports scrim and tournament management platform.
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-  Includes team slot registration, leaderboard systems, news/blog publishing, sponsor management, protected admin workflows, UploadThing image uploads, JWT auth, and automated daily
-  scrim creation.
+**[M4X Esport](https://m4x.mhbd.dev)** &nbsp;<sub>2026</sub><br>
+<sub>FULL-STACK PLATFORM</sub>
 
-  - Live: https://www.rcsf.tr
+Tournaments, scrims, team registration, standings and sponsor visibility in one operations panel, behind protected admin workflows.
 
-  ## Core Stack
+`Next.js` `TypeScript` `Drizzle ORM` `JWT`
 
-  **Frontend:** TypeScript, Next.js, React, Tailwind CSS
-  **Backend:** Node.js, PostgreSQL, Drizzle ORM, REST APIs
-  **AI:** AI Product Development, LLM Integration, OpenAI, Claude API, Vercel AI SDK
-  **Product:** UI/UX implementation, dashboards, admin systems, validation, auth
-  **Tools:** Vercel, Docker, GitHub Actions, Playwright, Vitest
+</td>
+<td valign="top">
 
-  ## How I Work
+**[Neoesis](https://neoesis.mhbd.dev)** &nbsp;<sub>2025 – 2026 · [repo](https://github.com/MHBDMuhammed/Neoesis)</sub><br>
+<sub>AI-ASSISTED LEARNING PLATFORM</sub>
 
-  I use AI agents and modern tooling to move faster, but I keep the important decisions human: architecture, data modeling, security boundaries, UI hierarchy, accessibility, and release
-  quality.
+Explanation, interactive modules and assessment in one system, with reusable lesson templates, agent-based content workflows and quality checks.
 
-  Tools like **Claude Code, Codex, Antigravity, and OpenCode** help accelerate implementation, but every product still needs a clear plan, strong review discipline, and a careful final
-  pass.
+`Next.js` `Three.js` `Zustand` `Agentic workflows`
 
-  ## Contact
+</td>
+</tr>
+</table>
 
-  - Website: https://www.mhbd.dev
-  - LinkedIn: https://www.linkedin.com/in/muhammedbodruk/
-  - X: https://x.com/MBodruk3049
-  - Email: info@mhbd.dev
+### <sub>02</sub>&nbsp; How I build
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/loop-dark.svg">
+  <img src="assets/loop-light.svg" alt="A repeating loop: Discover, Architect, Harness, Ship and evolve. Observations become the next brief.">
+</picture>
+
+AI agents speed up implementation; architecture, data modeling, security boundaries and release quality stay human decisions.<br>
+<sub>Claude Code · Codex CLI · OpenCode · MCP · Custom Skills</sub>
+
+### <sub>03</sub>&nbsp; Stack
+
+**Foundation** &nbsp; TypeScript · Next.js · React · Tailwind CSS · UI/UX<br>
+**Systems** &nbsp; Node.js · PostgreSQL · Drizzle ORM · REST · Auth<br>
+**AI** &nbsp; LLM APIs · Vercel AI SDK · Structured Outputs · Tool Calling · Python<br>
+**Shipped** &nbsp; Docker · GitHub Actions · Vercel
+
+<p align="center"><sub>Open to web projects — <a href="mailto:mhbd@mhbd.dev">mhbd@mhbd.dev</a></sub></p>
